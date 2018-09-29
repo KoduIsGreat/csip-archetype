@@ -1,0 +1,10 @@
+// TODO: make this a real parameter payload!
+{
+  "metaInfo" : {}
+  "parameters" : [
+    {
+      "name" : "foo",
+      "value": "bar"
+    }
+  ]
+}
