@@ -1,6 +1,6 @@
 // TODO: make this a real parameter payload!
 {
-  "metaInfo" : {}
+  "metaInfo" : {},
   "parameters" : [
     {
       "name" : "foo",

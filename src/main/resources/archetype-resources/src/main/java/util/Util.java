@@ -1,4 +1,4 @@
-package $package.util;
+package ${groupId}.util;
 
 /**
  * V1 CSIP service...

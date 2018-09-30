@@ -55,6 +55,6 @@ public class ApplicationConfig extends Application {
      * resources defined in the project.
      */
     private void addRestResourceClasses(Set<Class<?>> resources) {
-        resources.add($package.services.V1.class);
+        resources.add(${groupId}.services.V1.class);
     }
 }

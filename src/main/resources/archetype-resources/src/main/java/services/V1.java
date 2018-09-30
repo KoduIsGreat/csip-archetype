@@ -1,4 +1,4 @@
-package ${package}.services;
+package ${groupId}.services;
 
 /**
  * V1 CSIP service...
@@ -13,7 +13,7 @@ import csip.annotations.*;
 @Description("Example of an simple service")
 @Category("Examples")
 @Category("Climate")
-@Path("m/${artifactId}/1.0")
+@Path("${groupId}/${artifactId}/1.0")
 public class V1 extends csip.ModelDataService {
 
     @Override
