@@ -1,7 +1,7 @@
-##Purpose
+## Purpose
 An archetype project designed to bootstrap csip microservices.
 
-##Prerequisites 
+## Prerequisites 
 1. git
 2. maven 3.3.9
 3. java 1.8 sdk
